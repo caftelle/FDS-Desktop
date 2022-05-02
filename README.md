@@ -15,6 +15,6 @@ FDS (Fatura Düzeltme Sihirbazı) otomatik mail hazırlama sistemidir. Süreci g
 
 ##################################################################################
 
-Files https://drive.google.com/drive/folders/15jZx93iiJpW837MBQnnyoXqvV8t9UuAG?usp=sharing
+Files https://drive.google.com/file/d/1woQZpQF_tQ1Uz18TjP8DinQ0B9HsJFlG/view?usp=sharing
 
 Developed by Caftelle | Caftelle Created by Furkan ARINCI
